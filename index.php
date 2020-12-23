@@ -1,6 +1,6 @@
 <?php
 
-	echo "Olá Mundão!";
-	echo "Eita cara o código muda nao"
+	echo "123456";
+	echo "Estou alterando"
 
 ?>
